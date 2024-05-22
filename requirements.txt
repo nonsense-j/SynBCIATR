@@ -1,0 +1,12 @@
+codebleu
+FlagEmbedding
+GitPython
+langchain_core
+langchain_openai
+langsmith
+numpy
+pydantic
+Requests
+tree_sitter
+tree_sitter_java
+typing_extensions
